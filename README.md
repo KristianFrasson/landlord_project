@@ -84,5 +84,5 @@ landlord_project/
 * Abra o navegador e acesse http://localhost/projeto-locadora.
 
 ## Contato
-Nome: Kristian Frasson
-Email: kristianp.frasson@hotmail.com
+### Nome: Kristian Frasson
+### Email: kristianp.frasson@hotmail.com
